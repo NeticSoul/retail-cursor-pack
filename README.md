@@ -2,7 +2,9 @@
 
 Modern retail-style cursors for World of Warcraft 3.3.5a.
 
-![preview](preview.png)
+<p align="left">
+  <img src="preview.png" alt="preview" width="500">
+</p>
 
 ## Install
 
